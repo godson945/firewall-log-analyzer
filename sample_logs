@@ -1,4 +1,0 @@
-2024-10-18 10:45:23 - Source: 192.168.1.5 - Destination: 10.0.0.1 - Port: 80 - Action: ALLOWED
-2024-10-18 10:46:12 - Source: 192.168.1.10 - Destination: 10.0.0.1 - Port: 443 - Action: ALLOWED
-2024-10-18 10:47:35 - Source: 192.168.1.10 - Destination: 10.0.0.1 - Port: 22 - Action: DENIED
-2024-10-18 10:47:58 - Source: 192.168.1.12 - Destination: 10.0.0.1 - Port: 22 - Action: DENIED
